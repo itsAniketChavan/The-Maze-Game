@@ -10,7 +10,7 @@ This project is a maze game implemented using HTML, CSS, and JavaScript, incorpo
 
 ## Features - 
 
-A] Maze Generation: The game dynamically generates mazes using graph algorithms, ensuring a unique and challenging experience for each playthrough.
+A] **Maze Generation:** The game dynamically generates mazes using graph algorithms, ensuring a unique and challenging experience for each playthrough.
 
 B] Interactive Gameplay: Users can navigate through the maze using standard controls. The game provides an engaging user interface and experience.
 
