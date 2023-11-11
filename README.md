@@ -2,13 +2,13 @@
 
 ### Live demo - https://the-maze-game-lemon.vercel.app/
 
-## Maze Game with Graph Algorithms -
+### Maze Game with Graph Algorithms -
 
-## Project Overview -
+### Project Overview -
 
 This project is a maze game implemented using HTML, CSS, and JavaScript, incorporating graph algorithms to generate and solve mazes. The game provides an interactive and challenging experience for users as they navigate through the maze while utilizing graph-based strategies.
 
-## Features - 
+### Features - 
 
 A] **Maze Generation:** The game dynamically generates mazes using graph algorithms, ensuring a unique and challenging experience for each playthrough.
 
@@ -20,19 +20,21 @@ D] Scalability: The maze generation and solving algorithms are designed to be sc
 
 ### Usage -
 
-## Play  the Game:
+### Play  the Game:
 
 Click the link above provided.
 
-## Navigate Through the Maze:
+### Navigate Through the Maze:
 Use arrow keys to navigate through the generated maze.
 
-## Challenge Yourself:
+### Challenge Yourself:
 Attempt to solve the maze or let the implemented graph algorithm find the solution for you.
 
-## Graph Algorithms
+### Graph Algorithms
+
 The project incorporates the following graph algorithm(s):
 
- : Brief description of the algorithm and how it is applied in the context of maze generation or solving.
+ A] DFS & BFS
 
-[Another Algorithm]: (If applicable) Describe any additional graph algorithms used.
+
+ ## Thank You!...
