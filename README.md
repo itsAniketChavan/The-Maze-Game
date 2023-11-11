@@ -18,19 +18,21 @@ C] Graph-Based Solving: The project implements graph algorithms to find the solu
 
 D] Scalability: The maze generation and solving algorithms are designed to be scalable, allowing for mazes of varying sizes and complexities.
 
-Usage
-Run the Game:
-Open the index.html file in a web browser to start the game.
+### Usage -
 
-Navigate Through the Maze:
-Use arrow keys or [custom controls] to navigate through the generated maze.
+## Play  the Game:
 
-Challenge Yourself:
+Click the link above provided.
+
+## Navigate Through the Maze:
+Use arrow keys to navigate through the generated maze.
+
+## Challenge Yourself:
 Attempt to solve the maze or let the implemented graph algorithm find the solution for you.
 
-Graph Algorithms
+## Graph Algorithms
 The project incorporates the following graph algorithm(s):
 
-[Algorithm Name]: Brief description of the algorithm and how it is applied in the context of maze generation or solving.
+ : Brief description of the algorithm and how it is applied in the context of maze generation or solving.
 
 [Another Algorithm]: (If applicable) Describe any additional graph algorithms used.
